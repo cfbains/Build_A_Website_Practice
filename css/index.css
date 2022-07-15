@@ -1,0 +1,46 @@
+nav {
+    height: 70px;
+    background-color: lightgrey;
+  }
+
+.nav-block{
+    display:inline-block;
+    padding: 25px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: darkslategray;
+    color: white;
+}
+
+body {
+    
+}
+
+.sidebar {
+    margin-top: 5px;
+    float: left;
+    min-height: 500px;
+    background-color: white;
+    width: 29%;
+    text-align: center;
+}
+
+#nakedrat {
+    width: 80%;
+    display: flex;
+    position: relative;
+    padding-left: 20%;
+}
+
+#ratheader {
+    font-size: large;
+    font-weight: bolder;
+}
+
+.main-section {
+    margin-top: 5px;
+    float: right;
+    min-height: 500px;
+    background-color: lightcyan;
+    width: 70%;
+}
